@@ -7,7 +7,5 @@ public class demo2 {
         long c = 30;
         long rs = a+b+c;
         System.out.println(rs);
-
-
     }
 }

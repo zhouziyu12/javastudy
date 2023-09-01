@@ -6,5 +6,19 @@ public class ForDemo1 {
         for(int i=0;i<5; i++){
         System.out.println("Helloworld");
     }
+
+
+
+
+        System.out.println("H-----------------------------");
+
+        for(int i=1;i<=5; i++){
+            System.out.println("Helloworld2");
+        }
+
+        System.out.println("H-----------------------------");
+        for(int i=1;i<=5; i+=2){
+            System.out.println("Helloworld3");
+        }
 }
 }

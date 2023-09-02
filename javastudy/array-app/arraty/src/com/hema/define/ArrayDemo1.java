@@ -6,7 +6,7 @@ public class ArrayDemo1 {
         int[] ages = new int[]{12, 24, 36};
         double[] scores=new double[]{89.9,99.5,59.5,89};
 
-
+        System.out.println(ages[2]);
 
         int[] ages2 = {12,24,36};
         int ages3[]={12,24,36};

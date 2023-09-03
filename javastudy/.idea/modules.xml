@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/array-app/arraty/arraty.iml" filepath="$PROJECT_DIR$/array-app/arraty/arraty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Method-app/Method-app/Method-app.iml" filepath="$PROJECT_DIR$/Method-app/Method-app/Method-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/javastudy.iml" filepath="$PROJECT_DIR$/javastudy.iml" />
     </modules>
   </component>

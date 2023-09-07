@@ -5,7 +5,7 @@ import java.util.Random;
 public class Test2 {
     public static void main(String[] args) {
 
-        System.out.println(createcode(8));
+        System.out.println(createcode(6));
     }
     public static String createcode(int n ){
         Random r = new Random();

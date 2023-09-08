@@ -2,7 +2,7 @@ package exercise;
 
 public class Test5 {
     public static void main(String[] args) {
-        int arr[]={11,22,33};
+        int arr[]={33,88,77};
         int[] arr2 = copy(arr);
         printarr(arr2);
 
